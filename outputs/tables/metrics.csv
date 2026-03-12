@@ -1,0 +1,5 @@
+﻿metric,value
+objective_value,5.0
+solve_time_sec,0.01189732551574707
+feasibility,1.0
+total_constraint_violation,0.0

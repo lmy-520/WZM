@@ -1,0 +1,4 @@
+﻿constraint,lhs_value,rhs_value,satisfied,violation
+x + 2y ≥ 10,10.0,10,True,0
+x ≥ 0,0.0,0,True,0
+y ≥ 0,5.0,0,True,0
