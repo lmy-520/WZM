@@ -1,5 +1,26 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
 .idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 临时 / 中间文件
 scene_plot.png
 git/
+
+# 数据与输出（如需版本控制请注释掉下面两行）
+# data_raw/
+# outputs/figures/
